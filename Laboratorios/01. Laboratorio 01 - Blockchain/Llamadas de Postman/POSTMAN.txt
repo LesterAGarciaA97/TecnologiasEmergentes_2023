@@ -1,0 +1,12 @@
+http://0.0.0.0:5000/mine_block
+http://0.0.0.0:5000/create_block
+http://0.0.0.0:5000/get_chain
+http://0.0.0.0:5000/get_block
+http://0.0.0.0:5000/create_block()
+
+http://0.0.0.0:5000/modify_block
+
+{
+    "index": 6,
+    "text": "Bloque hackeado"
+}
